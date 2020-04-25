@@ -32,6 +32,6 @@ The Dataset
 
 The dataset we’ll use for this python project- we’ll call it news_1.csv and news_2.csv
 
-The dataset in broken into two parts so first you need to combine the dataset and save it as 'news.csv'.
+The dataset in broken into two parts so first you need to combine the two dataset and save it as 'news.csv'.
         
 The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE.
